@@ -1,4 +1,4 @@
-import { _decorator, Component, Node, loader, SpriteFrame, SkinningModelComponent, Texture2D, systemEvent, SystemEvent, EventTouch, Vec3, math } from "cc";
+import { _decorator, Component, Node, loader, SpriteFrame, SkinningModelComponent, Texture2D, systemEvent, SystemEvent, EventTouch, Vec3, math, tween } from "cc";
 const { ccclass, property } = _decorator;
 
 
@@ -33,6 +33,15 @@ export class AvatarController extends Component {
     @property({type: Node})
     public male: Node = null;
 
+    @property({ type: Node })
+    readonly camera: Node = null;
+
+    @property({ type: Node })
+    readonly nFacePanel: Node = null;
+
+    @property({ type: Node })
+    readonly nDressPanel: Node = null;
+
     private sex: Sex;
     private avatar: Avatar;
     private target: Node;
@@ -43,6 +52,8 @@ export class AvatarController extends Component {
     private topIndex: number = 0;
     private pantsIndex: number = 0;
     private shoesIndex: number = 0;
+
+    private rotationInNDress: math.Quat;
 
     /**
      * 换发型
@@ -98,12 +109,46 @@ export class AvatarController extends Component {
         const index = ++this.shoesIndex;
         this.dress('shoes', infos[index]);
     }
+    /**
+     * 切到捏脸
+     */
+    public switchToNFace() {
+        // tween(this.camera)
+        //     .to(0.4, { position: new Vec3(0, 0.6, -1.5) }, { easing: 'smooth' })
+        //     .start();
+        tween(this.target)
+            .to(0.4, { rotation: new math.Quat(0, 0, 0, 1) }, { easing: 'linear' })
+            .start();
+        this.camera.setPosition(new Vec3(0, 0.6, -1.5));
+        this.rotationInNDress = this.target.getRotation();
+        // this.target.setRotation(new math.Quat(0, 0, 0 ,1));
+        this.nFacePanel.active = true;
+        this.nDressPanel.active = false;
+    }
+    /**
+     * 切到换装
+     */
+    public switchToNDress() {
+        // tween(this.camera)
+        //     .to(0.4, { position: new Vec3(0, 0, 0) }, { easing: 'smooth' })
+        //     .start();
+        tween(this.target)
+            .to(0.4, { rotation: this.rotationInNDress }, { easing: 'linear' })
+            .start();
+        this.camera.setPosition(new Vec3(0, 0, 0));
+        // this.target.setRotation(this.rotationInNDress);
+        this.nFacePanel.active = false;
+        this.nDressPanel.active = true;
+    }
+
 
     start () {
         this.sex = this.getAvatarSex();
         this.avatar = this.sex === Sex.FEMALE ? this.getAvatarFemaleInfo() : this.getAvatarMaleInfo();
         this.target = this.sex === Sex.FEMALE ? this.female : this.female;
-        window.t = this.target
+        console.log(this.target.getRotation())
+        // window.t = director.getScene()
+        window.camera = this.camera
         this.dressAll().then(() => {
             this.target.active = true;
         });
