@@ -1,86 +1,67 @@
-2020-04-08 22:25:17-log: ui-kit@1.0.0 enable
-2020-04-08 22:25:17-log: ipc@1.0.0 enable
-2020-04-08 22:25:17-log: tester@1.0.0 enable
-2020-04-08 22:25:17-log: preferences@1.0.0 enable
-2020-04-08 22:25:19-log: engine@1.0.0 enable
-2020-04-08 22:25:19-log: asset-db@1.0.0 enable
-2020-04-08 22:25:19-log: console@1.0.0 enable
-2020-04-08 22:25:19-log: scene@1.0.0 enable
-2020-04-08 22:25:19-log: packager@1.0.0 enable
-2020-04-08 22:25:19-log: project-setting@1.0.0 enable
-2020-04-08 22:25:19-log: about@1.0.0 enable
-2020-04-08 22:25:19-log: server@1.0.0 enable
-2020-04-08 22:25:19-log: utils@1.0.0 enable
-2020-04-08 22:25:19-log: profile@1.0.0 enable
-2020-04-08 22:25:19-log: assets@1.0.0 enable
-2020-04-08 22:25:19-log: inspector@1.0.0 enable
-2020-04-08 22:25:19-log: hierarchy@1.0.0 enable
-2020-04-08 22:25:19-log: preview@1.0.0 enable
-2020-04-08 22:25:19-log: animator@1.0.0 enable
-2020-04-08 22:25:20-log: builder@1.0.0 enable
-2020-04-08 22:25:20-log: lightmap@1.0.0 enable
-2020-04-08 22:25:20-log: alipay-mini-game@1.0.0 enable
-2020-04-08 22:25:20-log: android@1.0.0 enable
-2020-04-08 22:25:20-log: baidu-mini-game@1.0.0 enable
-2020-04-08 22:25:20-log: cocos-play@1.0.0 enable
-2020-04-08 22:25:20-log: huawei-mini-game@1.0.0 enable
-2020-04-08 22:25:20-log: ios@1.0.0 enable
-2020-04-08 22:25:20-log: mac@1.0.0 enable
-2020-04-08 22:25:20-log: native@1.0.0 enable
-2020-04-08 22:25:20-log: oppo-mini-game@1.0.0 enable
-2020-04-08 22:25:20-log: vivo-mini-game@1.0.0 enable
-2020-04-08 22:25:20-log: web-desktop@1.0.0 enable
-2020-04-08 22:25:20-log: web-mobile@1.0.0 enable
-2020-04-08 22:25:20-log: wechatgame@1.0.0 enable
-2020-04-08 22:25:20-log: windows@1.0.0 enable
-2020-04-08 22:25:20-log: xiaomi-quick-game@1.0.0 enable
-2020-04-08 22:25:26-warn: [Scene] Sender does not exist
-2020-04-08 22:28:03-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:28:07-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_pants-1.mtl) saved
-2020-04-08 22:28:15-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:28:18-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_top-1.mtl) saved
-2020-04-08 22:28:26-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:28:30-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_shoes-1.mtl) saved
-2020-04-08 22:28:40-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:28:44-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_top-2.mtl) saved
-2020-04-08 22:28:51-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:28:55-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_shoes-2.mtl) saved
-2020-04-08 22:29:02-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:29:06-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_face-1.mtl) saved
-2020-04-08 22:29:11-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:29:15-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_hair-2.mtl) saved
-2020-04-08 22:29:20-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:29:24-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_pants-2.mtl) saved
-2020-04-08 22:29:29-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:29:32-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_hair-1.mtl) saved
-2020-04-08 22:29:38-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:29:41-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_face-2.mtl) saved
-2020-04-08 22:29:50-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:29:55-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/Female/Materials_Female/female_eyes.mtl) saved
-2020-04-08 22:30:14-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:21-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:25-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:27-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:31-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:34-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:38-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:42-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:46-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:50-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:52-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:55-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:30:57-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:31:42-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:32:08-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:33:46-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:34:53-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:35:22-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:35:39-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:35:41-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:36:40-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 22:48:44-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 23:34:40-warn: [Scene] Set property failed: 92z8lJbpdI3qNclLXBhRtT does not exist
-2020-04-08 23:34:42-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 23:35:05-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 23:36:09-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-08 23:39:25-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 00:46:24-log: ui-kit@1.0.0 enable
+2020-04-09 00:46:24-log: ipc@1.0.0 enable
+2020-04-09 00:46:24-log: tester@1.0.0 enable
+2020-04-09 00:46:24-log: preferences@1.0.0 enable
+2020-04-09 00:46:26-log: engine@1.0.0 enable
+2020-04-09 00:46:26-log: asset-db@1.0.0 enable
+2020-04-09 00:46:26-log: console@1.0.0 enable
+2020-04-09 00:46:26-log: scene@1.0.0 enable
+2020-04-09 00:46:26-log: packager@1.0.0 enable
+2020-04-09 00:46:26-log: project-setting@1.0.0 enable
+2020-04-09 00:46:26-log: about@1.0.0 enable
+2020-04-09 00:46:26-log: server@1.0.0 enable
+2020-04-09 00:46:26-log: utils@1.0.0 enable
+2020-04-09 00:46:26-log: profile@1.0.0 enable
+2020-04-09 00:46:26-log: assets@1.0.0 enable
+2020-04-09 00:46:26-log: inspector@1.0.0 enable
+2020-04-09 00:46:26-log: hierarchy@1.0.0 enable
+2020-04-09 00:46:26-log: preview@1.0.0 enable
+2020-04-09 00:46:26-log: animator@1.0.0 enable
+2020-04-09 00:46:27-log: builder@1.0.0 enable
+2020-04-09 00:46:27-log: lightmap@1.0.0 enable
+2020-04-09 00:46:27-log: alipay-mini-game@1.0.0 enable
+2020-04-09 00:46:27-log: android@1.0.0 enable
+2020-04-09 00:46:27-log: baidu-mini-game@1.0.0 enable
+2020-04-09 00:46:27-log: cocos-play@1.0.0 enable
+2020-04-09 00:46:27-log: huawei-mini-game@1.0.0 enable
+2020-04-09 00:46:27-log: ios@1.0.0 enable
+2020-04-09 00:46:27-log: mac@1.0.0 enable
+2020-04-09 00:46:27-log: native@1.0.0 enable
+2020-04-09 00:46:27-log: oppo-mini-game@1.0.0 enable
+2020-04-09 00:46:27-log: vivo-mini-game@1.0.0 enable
+2020-04-09 00:46:27-log: web-desktop@1.0.0 enable
+2020-04-09 00:46:27-log: web-mobile@1.0.0 enable
+2020-04-09 00:46:27-log: wechatgame@1.0.0 enable
+2020-04-09 00:46:27-log: windows@1.0.0 enable
+2020-04-09 00:46:27-log: xiaomi-quick-game@1.0.0 enable
+2020-04-09 00:46:32-warn: [Scene] Sender does not exist
+2020-04-09 00:46:46-error: [Asset DB] Wait for the asset unlock timeout: /Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/builtin-particle-trail.effect
+2020-04-09 00:46:46-error: [Asset DB] Wait for the asset unlock timeout: /Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/builtin-particle.effect
+2020-04-09 00:46:46-error: [Asset DB] Wait for the asset unlock timeout: /Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/builtin-sprite.effect
+2020-04-09 00:46:46-error: [Asset DB] Wait for the asset unlock timeout: /Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/builtin-terrain.effect
+2020-04-09 00:48:31-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 00:48:47-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 00:50:06-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 00:50:34-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 00:50:58-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 00:52:51-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 00:54:49-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 00:54:56-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 00:55:48-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:07:27-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:10:03-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:11:44-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:13:34-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:15:49-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:25:16-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:36:38-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:37:36-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:38:47-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:38:52-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:38:56-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:40:01-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:40:11-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:41:36-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:42:26-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:42:37-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 01:42:39-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved

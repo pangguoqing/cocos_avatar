@@ -111,6 +111,19 @@
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output-standard.chunk",
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/aces.chunk"
     ],
+    "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/editor/gizmo.effect": [
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gizmo-vs.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gizmo-fs.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/rect-area-light.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/line-vs.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/line-fs.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/sprite-vs.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/sprite-fs.chunk"
+    ],
     "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/builtin-unlit.effect": [
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/unlit-vs.chunk",
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
@@ -125,19 +138,6 @@
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/unlit-fs.chunk",
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output.chunk",
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk"
-    ],
-    "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/editor/gizmo.effect": [
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gizmo-vs.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gizmo-fs.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/rect-area-light.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/line-vs.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/line-fs.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/sprite-vs.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/sprite-fs.chunk"
     ],
     "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/editor/grid-2d.effect": [
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/grid-vs.chunk",

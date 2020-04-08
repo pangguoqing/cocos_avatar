@@ -25,7 +25,7 @@
         "__id__": 124
       },
       {
-        "__id__": 326
+        "__id__": 329
       },
       {
         "__id__": 306
@@ -36,7 +36,7 @@
     "_prefab": null,
     "autoReleaseAssets": false,
     "_globals": {
-      "__id__": 385
+      "__id__": 388
     },
     "_id": "0388e498-2a1a-4d66-9c98-b5bddc4863ad"
   },
@@ -3726,7 +3726,7 @@
         "__id__": 126
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 300
@@ -3849,7 +3849,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 128
@@ -3954,7 +3954,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 132
@@ -4062,7 +4062,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 136
@@ -4167,7 +4167,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 140
@@ -4275,7 +4275,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 144
@@ -4380,7 +4380,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 148
@@ -4485,7 +4485,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 152
@@ -4590,7 +4590,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 156
@@ -4695,7 +4695,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 160
@@ -4800,7 +4800,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 164
@@ -8719,7 +8719,7 @@
       "__id__": 126
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 296
@@ -8848,7 +8848,7 @@
     "_defaultClip": {
       "__uuid__": "b4603776-5c15-4b1f-88fe-438e5e67a5fc@7f3dc"
     },
-    "_useBakedAnimation": true,
+    "_useBakedAnimation": false,
     "_sockets": [],
     "_id": "4bVcXDdD9FYqK0L4tyd8NK"
   },
@@ -9008,7 +9008,7 @@
       "__id__": 306
     },
     "nDressPanel": {
-      "__id__": 326
+      "__id__": 329
     },
     "_id": "a53qkEVs9KrZGCS+U4UrPC"
   },
@@ -9030,10 +9030,10 @@
     "_active": false,
     "_components": [
       {
-        "__id__": 324
+        "__id__": 327
       },
       {
-        "__id__": 325
+        "__id__": 328
       }
     ],
     "_prefab": null,
@@ -9360,18 +9360,21 @@
     "_children": [
       {
         "__id__": 316
+      },
+      {
+        "__id__": 320
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 320
+        "__id__": 323
       },
       {
-        "__id__": 321
+        "__id__": 324
       },
       {
-        "__id__": 322
+        "__id__": 325
       }
     ],
     "_prefab": null,
@@ -9426,7 +9429,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -120,
+      "x": 60,
       "y": 0,
       "z": 0
     },
@@ -9564,6 +9567,108 @@
     "_id": "2fCRR6SwNJYrwVgnbUnf09"
   },
   {
+    "__type__": "cc.Node",
+    "_name": "Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 315
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 321
+      },
+      {
+        "__id__": 322
+      }
+    ],
+    "_lpos": {
+      "__type__": "cc.Vec3",
+      "x": -190.707,
+      "y": 0,
+      "z": 0
+    },
+    "_lrot": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_lscale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_layer": 33554432,
+    "_euler": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_id": "5bJ8RySjtMaqOq7o27xgtD"
+  },
+  {
+    "__type__": "cc.UITransformComponent",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 320
+    },
+    "_enabled": true,
+    "_priority": 0,
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 40
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_id": "9dKWsUD31AHYx85HpX2oM0"
+  },
+  {
+    "__type__": "cc.LabelComponent",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 320
+    },
+    "_enabled": true,
+    "_srcBlendFactor": 2,
+    "_dstBlendFactor": 4,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_sharedMaterial": null,
+    "_useOriginalSize": true,
+    "_string": "下巴",
+    "_horizontalAlign": 1,
+    "_verticalAlign": 1,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
+    "_fontFamily": "Arial",
+    "_lineHeight": 40,
+    "_overflow": 0,
+    "_enableWrapText": true,
+    "_font": null,
+    "_isSystemFontUsed": true,
+    "_isItalic": false,
+    "_isBold": false,
+    "_isUnderline": false,
+    "_cacheMode": 0,
+    "_id": "e5s2BwPr9HXozuLP7RYMiA"
+  },
+  {
     "__type__": "cc.UITransformComponent",
     "_name": "",
     "_objFlags": 0,
@@ -9632,14 +9737,14 @@
     "_enabled": true,
     "slideEvents": [
       {
-        "__id__": 323
+        "__id__": 326
       }
     ],
     "_handle": {
       "__id__": 318
     },
     "_direction": 0,
-    "_progress": 0.1,
+    "_progress": 0.7,
     "_id": "79PXlsbXBM9aQBIeLyT6K0"
   },
   {
@@ -9703,34 +9808,34 @@
     },
     "_children": [
       {
-        "__id__": 327
+        "__id__": 330
       },
       {
-        "__id__": 335
+        "__id__": 338
       },
       {
-        "__id__": 343
+        "__id__": 346
       },
       {
-        "__id__": 351
+        "__id__": 354
       },
       {
-        "__id__": 359
+        "__id__": 362
       },
       {
-        "__id__": 367
+        "__id__": 370
       },
       {
-        "__id__": 375
+        "__id__": 378
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 383
+        "__id__": 386
       },
       {
-        "__id__": 384
+        "__id__": 387
       }
     ],
     "_prefab": null,
@@ -9767,23 +9872,23 @@
     "_name": "ChangePantsButton",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 326
+      "__id__": 329
     },
     "_children": [
       {
-        "__id__": 328
+        "__id__": 331
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 331
+        "__id__": 334
       },
       {
-        "__id__": 332
+        "__id__": 335
       },
       {
-        "__id__": 333
+        "__id__": 336
       }
     ],
     "_prefab": null,
@@ -9820,16 +9925,16 @@
     "_name": "Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 327
+      "__id__": 330
     },
     "_children": [],
     "_active": true,
     "_components": [
       {
-        "__id__": 329
+        "__id__": 332
       },
       {
-        "__id__": 330
+        "__id__": 333
       }
     ],
     "_prefab": null,
@@ -9866,7 +9971,7 @@
     "_name": "Label<UITransformComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 328
+      "__id__": 331
     },
     "_enabled": true,
     "_priority": 0,
@@ -9887,7 +9992,7 @@
     "_name": "Label<LabelComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 328
+      "__id__": 331
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -9923,7 +10028,7 @@
     "_name": "ChangePantsButton<UITransformComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 327
+      "__id__": 330
     },
     "_enabled": true,
     "_priority": 0,
@@ -9944,7 +10049,7 @@
     "_name": "ChangePantsButton<SpriteComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 327
+      "__id__": 330
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -9980,12 +10085,12 @@
     "_name": "ChangePantsButton<ButtonComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 327
+      "__id__": 330
     },
     "_enabled": true,
     "clickEvents": [
       {
-        "__id__": 334
+        "__id__": 337
       }
     ],
     "_interactable": true,
@@ -10033,7 +10138,7 @@
     "_duration": 0.1,
     "_zoomScale": 1.2,
     "_target": {
-      "__id__": 327
+      "__id__": 330
     },
     "_id": "a9qxHXUKNKepSj2bJqGVeH"
   },
@@ -10052,23 +10157,23 @@
     "_name": "ChangePantsButton",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 326
+      "__id__": 329
     },
     "_children": [
       {
-        "__id__": 336
+        "__id__": 339
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 339
+        "__id__": 342
       },
       {
-        "__id__": 340
+        "__id__": 343
       },
       {
-        "__id__": 341
+        "__id__": 344
       }
     ],
     "_prefab": null,
@@ -10105,16 +10210,16 @@
     "_name": "Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 335
+      "__id__": 338
     },
     "_children": [],
     "_active": true,
     "_components": [
       {
-        "__id__": 337
+        "__id__": 340
       },
       {
-        "__id__": 338
+        "__id__": 341
       }
     ],
     "_prefab": null,
@@ -10151,7 +10256,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 336
+      "__id__": 339
     },
     "_enabled": true,
     "_priority": 0,
@@ -10172,7 +10277,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 336
+      "__id__": 339
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -10208,7 +10313,7 @@
     "_name": "ChangePantsButton<UITransformComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 335
+      "__id__": 338
     },
     "_enabled": true,
     "_priority": 0,
@@ -10229,7 +10334,7 @@
     "_name": "ChangePantsButton<SpriteComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 335
+      "__id__": 338
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -10265,12 +10370,12 @@
     "_name": "ChangePantsButton<ButtonComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 335
+      "__id__": 338
     },
     "_enabled": true,
     "clickEvents": [
       {
-        "__id__": 342
+        "__id__": 345
       }
     ],
     "_interactable": true,
@@ -10318,7 +10423,7 @@
     "_duration": 0.1,
     "_zoomScale": 1.2,
     "_target": {
-      "__id__": 335
+      "__id__": 338
     },
     "_id": "57Kawe35RAe5BgR4Gk1bum"
   },
@@ -10337,23 +10442,23 @@
     "_name": "ChangePantsButton",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 326
+      "__id__": 329
     },
     "_children": [
       {
-        "__id__": 344
+        "__id__": 347
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 347
+        "__id__": 350
       },
       {
-        "__id__": 348
+        "__id__": 351
       },
       {
-        "__id__": 349
+        "__id__": 352
       }
     ],
     "_prefab": null,
@@ -10390,16 +10495,16 @@
     "_name": "Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 343
+      "__id__": 346
     },
     "_children": [],
     "_active": true,
     "_components": [
       {
-        "__id__": 345
+        "__id__": 348
       },
       {
-        "__id__": 346
+        "__id__": 349
       }
     ],
     "_prefab": null,
@@ -10436,7 +10541,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 344
+      "__id__": 347
     },
     "_enabled": true,
     "_priority": 0,
@@ -10457,7 +10562,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 344
+      "__id__": 347
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -10493,7 +10598,7 @@
     "_name": "ChangePantsButton<UITransformComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 343
+      "__id__": 346
     },
     "_enabled": true,
     "_priority": 0,
@@ -10514,7 +10619,7 @@
     "_name": "ChangePantsButton<SpriteComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 343
+      "__id__": 346
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -10550,12 +10655,12 @@
     "_name": "ChangePantsButton<ButtonComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 343
+      "__id__": 346
     },
     "_enabled": true,
     "clickEvents": [
       {
-        "__id__": 350
+        "__id__": 353
       }
     ],
     "_interactable": true,
@@ -10603,7 +10708,7 @@
     "_duration": 0.1,
     "_zoomScale": 1.2,
     "_target": {
-      "__id__": 343
+      "__id__": 346
     },
     "_id": "c6IVjrOzBCd4yv2P+j5oBO"
   },
@@ -10622,23 +10727,23 @@
     "_name": "ChangePantsButton",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 326
+      "__id__": 329
     },
     "_children": [
       {
-        "__id__": 352
+        "__id__": 355
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 355
+        "__id__": 358
       },
       {
-        "__id__": 356
+        "__id__": 359
       },
       {
-        "__id__": 357
+        "__id__": 360
       }
     ],
     "_prefab": null,
@@ -10675,16 +10780,16 @@
     "_name": "Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 351
+      "__id__": 354
     },
     "_children": [],
     "_active": true,
     "_components": [
       {
-        "__id__": 353
+        "__id__": 356
       },
       {
-        "__id__": 354
+        "__id__": 357
       }
     ],
     "_prefab": null,
@@ -10721,7 +10826,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 352
+      "__id__": 355
     },
     "_enabled": true,
     "_priority": 0,
@@ -10742,7 +10847,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 352
+      "__id__": 355
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -10778,7 +10883,7 @@
     "_name": "ChangePantsButton<UITransformComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 351
+      "__id__": 354
     },
     "_enabled": true,
     "_priority": 0,
@@ -10799,7 +10904,7 @@
     "_name": "ChangePantsButton<SpriteComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 351
+      "__id__": 354
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -10835,12 +10940,12 @@
     "_name": "ChangePantsButton<ButtonComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 351
+      "__id__": 354
     },
     "_enabled": true,
     "clickEvents": [
       {
-        "__id__": 358
+        "__id__": 361
       }
     ],
     "_interactable": true,
@@ -10888,7 +10993,7 @@
     "_duration": 0.1,
     "_zoomScale": 1.2,
     "_target": {
-      "__id__": 351
+      "__id__": 354
     },
     "_id": "f0K3AqLrNH2JloKrzh51sq"
   },
@@ -10907,23 +11012,23 @@
     "_name": "ChangePantsButton",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 326
+      "__id__": 329
     },
     "_children": [
       {
-        "__id__": 360
+        "__id__": 363
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 363
+        "__id__": 366
       },
       {
-        "__id__": 364
+        "__id__": 367
       },
       {
-        "__id__": 365
+        "__id__": 368
       }
     ],
     "_prefab": null,
@@ -10960,16 +11065,16 @@
     "_name": "Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 359
+      "__id__": 362
     },
     "_children": [],
     "_active": true,
     "_components": [
       {
-        "__id__": 361
+        "__id__": 364
       },
       {
-        "__id__": 362
+        "__id__": 365
       }
     ],
     "_prefab": null,
@@ -11006,7 +11111,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 360
+      "__id__": 363
     },
     "_enabled": true,
     "_priority": 0,
@@ -11027,7 +11132,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 360
+      "__id__": 363
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -11063,7 +11168,7 @@
     "_name": "ChangePantsButton<UITransformComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 359
+      "__id__": 362
     },
     "_enabled": true,
     "_priority": 0,
@@ -11084,7 +11189,7 @@
     "_name": "ChangePantsButton<SpriteComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 359
+      "__id__": 362
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -11120,12 +11225,12 @@
     "_name": "ChangePantsButton<ButtonComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 359
+      "__id__": 362
     },
     "_enabled": true,
     "clickEvents": [
       {
-        "__id__": 366
+        "__id__": 369
       }
     ],
     "_interactable": true,
@@ -11173,7 +11278,7 @@
     "_duration": 0.1,
     "_zoomScale": 1.2,
     "_target": {
-      "__id__": 359
+      "__id__": 362
     },
     "_id": "431beyMHtFV7KSFnlIbCyw"
   },
@@ -11192,23 +11297,23 @@
     "_name": "ChangeShoesButton",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 326
+      "__id__": 329
     },
     "_children": [
       {
-        "__id__": 368
+        "__id__": 371
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 371
+        "__id__": 374
       },
       {
-        "__id__": 372
+        "__id__": 375
       },
       {
-        "__id__": 373
+        "__id__": 376
       }
     ],
     "_prefab": null,
@@ -11245,16 +11350,16 @@
     "_name": "Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 367
+      "__id__": 370
     },
     "_children": [],
     "_active": true,
     "_components": [
       {
-        "__id__": 369
+        "__id__": 372
       },
       {
-        "__id__": 370
+        "__id__": 373
       }
     ],
     "_prefab": null,
@@ -11291,7 +11396,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 368
+      "__id__": 371
     },
     "_enabled": true,
     "_priority": 0,
@@ -11312,7 +11417,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 368
+      "__id__": 371
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -11348,7 +11453,7 @@
     "_name": "ChangeShoesButton<UITransformComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 367
+      "__id__": 370
     },
     "_enabled": true,
     "_priority": 0,
@@ -11369,7 +11474,7 @@
     "_name": "ChangeShoesButton<SpriteComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 367
+      "__id__": 370
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -11405,12 +11510,12 @@
     "_name": "ChangeShoesButton<ButtonComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 367
+      "__id__": 370
     },
     "_enabled": true,
     "clickEvents": [
       {
-        "__id__": 374
+        "__id__": 377
       }
     ],
     "_interactable": true,
@@ -11458,7 +11563,7 @@
     "_duration": 0.1,
     "_zoomScale": 1.2,
     "_target": {
-      "__id__": 367
+      "__id__": 370
     },
     "_id": "b3mewSaLVOt57NEBAuGW7v"
   },
@@ -11477,23 +11582,23 @@
     "_name": "SwitchToNFaceButton",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 326
+      "__id__": 329
     },
     "_children": [
       {
-        "__id__": 376
+        "__id__": 379
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 379
+        "__id__": 382
       },
       {
-        "__id__": 380
+        "__id__": 383
       },
       {
-        "__id__": 381
+        "__id__": 384
       }
     ],
     "_prefab": null,
@@ -11530,16 +11635,16 @@
     "_name": "Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 375
+      "__id__": 378
     },
     "_children": [],
     "_active": true,
     "_components": [
       {
-        "__id__": 377
+        "__id__": 380
       },
       {
-        "__id__": 378
+        "__id__": 381
       }
     ],
     "_prefab": null,
@@ -11576,7 +11681,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 376
+      "__id__": 379
     },
     "_enabled": true,
     "_priority": 0,
@@ -11597,7 +11702,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 376
+      "__id__": 379
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -11633,7 +11738,7 @@
     "_name": "ChangeShoesButton<UITransformComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 375
+      "__id__": 378
     },
     "_enabled": true,
     "_priority": 0,
@@ -11654,7 +11759,7 @@
     "_name": "ChangeShoesButton<SpriteComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 375
+      "__id__": 378
     },
     "_enabled": true,
     "_srcBlendFactor": 2,
@@ -11690,12 +11795,12 @@
     "_name": "ChangeShoesButton<ButtonComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 375
+      "__id__": 378
     },
     "_enabled": true,
     "clickEvents": [
       {
-        "__id__": 382
+        "__id__": 385
       }
     ],
     "_interactable": true,
@@ -11743,7 +11848,7 @@
     "_duration": 0.1,
     "_zoomScale": 1.2,
     "_target": {
-      "__id__": 375
+      "__id__": 378
     },
     "_id": "6cE8N4nqFEN7ulvg0lIc/H"
   },
@@ -11762,7 +11867,7 @@
     "_name": "Canvas<UITransformComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 326
+      "__id__": 329
     },
     "_enabled": true,
     "_priority": 0,
@@ -11783,7 +11888,7 @@
     "_name": "Canvas<CanvasComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 326
+      "__id__": 329
     },
     "_enabled": true,
     "_priority": 0,
@@ -11802,13 +11907,13 @@
   {
     "__type__": "cc.SceneGlobals",
     "ambient": {
-      "__id__": 386
+      "__id__": 389
     },
     "planarShadows": {
-      "__id__": 387
+      "__id__": 390
     },
     "_skybox": {
-      "__id__": 388
+      "__id__": 391
     }
   },
   {

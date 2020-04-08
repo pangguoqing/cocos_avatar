@@ -145,11 +145,25 @@ export class AvatarController extends Component {
      * @param slider 滑杆
      */
     public nJaw(slider: SliderComponent){
-        console.log(slider.progress)
-        window.t = this.target
-        console.log(this.target.children[0].children[10].children[0].children[0].children[0].children[0].children)
+        const jaw = this.target.children[0].children[10].children[0].children[0].children[0].children[0].children[7];
+        jaw.setPosition({...jaw.position, x: 0.0006415533716790378 + 0.00008 * (slider.progress - 0.7) * 2})
     }
 
+    private hideUnusedParts() {
+        const parts = this.target.children[0].children;
+        for (var i = 0; i < parts.length; i++) {
+            const part = parts[i];
+            console.log(part)
+            if (!part.getComponent(SkinningModelComponent)) {
+                continue;
+            }
+            const material = part.getComponent(SkinningModelComponent).materials[0];
+            console.log(material.getProperty('mainTexture'))
+            if (!material.getProperty('mainTexture')) {
+                part.active = false;
+            }
+        }
+    }
 
     start () {
         this.sex = this.getAvatarSex();
@@ -158,6 +172,10 @@ export class AvatarController extends Component {
         window.camera = this.camera
         this.dressAll().then(() => {
             this.target.active = true;
+            // [bug fixed] 关闭useBakedAnimation之后,从模型A切换到模型B时，模型B动画会卡住。这里处理的方法是在加载人物时默认所有的模型都是active状态，等加载完毕时再讲不需要展示的模型隐藏。隐藏需要异步进行，否则仍然会卡。
+            setTimeout(()=>{
+                this.hideUnusedParts();
+            })
         });
         systemEvent.on(SystemEvent.EventType.TOUCH_MOVE, this.onTouchMove, this);
         systemEvent.on(SystemEvent.EventType.MOUSE_MOVE,this.onMouseMove,this);
@@ -276,7 +294,7 @@ export class AvatarController extends Component {
             }
             if (current !== pre) {
                 pre.active = false;
-                // [bug fix] 从A模型切换到B模型时，A模型的全局旋转信息未能更新到最新。
+                // [bug fixed] 从A模型切换到B模型时，A模型的全局旋转信息未能更新到最新。
                 this.target.setRotation(this.target.getRotation());
             }
             current.active = true;
