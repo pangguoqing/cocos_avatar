@@ -196,16 +196,6 @@
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output.chunk",
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk"
     ],
-    "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/pipeline/smaa.effect": [
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/smaa-edge-vs.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/smaa-edge-fs.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/common.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/aces.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/smaa-blend-vs.chunk",
-      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/smaa-blend-fs.chunk"
-    ],
     "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/pipeline/skybox.effect": [
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/sky-vs.chunk",
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
@@ -217,6 +207,16 @@
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output-standard.chunk",
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/aces.chunk"
+    ],
+    "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/pipeline/smaa.effect": [
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/smaa-edge-vs.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/smaa-edge-fs.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/common.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/aces.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/smaa-blend-vs.chunk",
+      "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/smaa-blend-fs.chunk"
     ],
     "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/pipeline/tonemap.effect": [
       "/Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/tonemap-vs.chunk",

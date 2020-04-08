@@ -1,6 +1,6 @@
 {
   "__type__": "cc.Material",
-  "_name": "female_face-2",
+  "_name": "",
   "_objFlags": 0,
   "_native": "",
   "_effectAsset": {
@@ -9,39 +9,30 @@
   "_techIdx": 0,
   "_defines": [
     {
+      "USE_NORMAL_MAP": true,
       "HAS_SECOND_UV": true,
-      "USE_ALBEDO_MAP": true,
-      "USE_NORMAL_MAP": true
+      "USE_ALBEDO_MAP": true
     }
   ],
   "_states": [
     {
-      "rasterizerState": {},
       "blendState": {
         "targets": [
           {}
         ]
       },
-      "depthStencilState": {}
+      "depthStencilState": {},
+      "rasterizerState": {}
     }
   ],
   "_props": [
     {
-      "mainTexture": {
-        "__uuid__": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@546bb"
-      },
-      "albedoScale": {
-        "__type__": "cc.Vec3",
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "metallic": 0.400000005960464,
+      "alphaThreshold": 0,
       "roughness": 0.742832124233246,
+      "metallic": 0.400000005960464,
       "normalMap": {
         "__uuid__": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@0ac4c"
-      },
-      "alphaThreshold": 0
+      }
     }
   ]
 }

@@ -1,4 +1,4 @@
-import { _decorator, Component, Node, loader, SpriteFrame, SkinningModelComponent, Texture2D, systemEvent, SystemEvent, EventTouch, Vec3, math, tween } from "cc";
+import { _decorator, Component, Node, loader, SpriteFrame, SkinningModelComponent, Texture2D, systemEvent, SystemEvent, EventTouch, Vec3, math, tween, SliderComponent } from "cc";
 const { ccclass, property } = _decorator;
 
 
@@ -139,6 +139,10 @@ export class AvatarController extends Component {
         // this.target.setRotation(this.rotationInNDress);
         this.nFacePanel.active = false;
         this.nDressPanel.active = true;
+    }
+
+    public nJaw(slider: SliderComponent){
+        console.log(slider.progress)
     }
 
 
