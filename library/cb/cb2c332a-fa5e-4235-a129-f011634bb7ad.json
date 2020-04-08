@@ -77,6 +77,7 @@
           "type": 14,
           "count": 1,
           "defines": [],
+          "format": 21,
           "location": 0
         },
         {
@@ -84,6 +85,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 1
         }
       ],

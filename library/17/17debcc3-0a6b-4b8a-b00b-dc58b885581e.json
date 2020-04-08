@@ -403,6 +403,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 0
         },
         {
@@ -410,6 +411,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 1
         },
         {
@@ -417,6 +419,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 2
         },
         {
@@ -424,6 +427,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 3
         },
         {
@@ -431,6 +435,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 4
         }
       ],
@@ -450,9 +455,6 @@
           "location": 1
         },
         {
-          "tags": [
-            "CC_DRAW_WIRE_FRAME"
-          ],
           "name": "vBarycentric",
           "type": 15,
           "count": 1,
@@ -576,6 +578,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 0
         },
         {
@@ -583,6 +586,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 1
         },
         {
@@ -590,6 +594,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 2
         },
         {
@@ -597,6 +602,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 3
         },
         {
@@ -604,6 +610,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 4
         }
       ],
@@ -623,9 +630,6 @@
           "location": 1
         },
         {
-          "tags": [
-            "CC_DRAW_WIRE_FRAME"
-          ],
           "name": "vBarycentric",
           "type": 15,
           "count": 1,
@@ -737,6 +741,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 0
         },
         {
@@ -744,6 +749,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 1
         },
         {
@@ -751,6 +757,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 2
         },
         {
@@ -758,6 +765,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 3
         },
         {
@@ -765,6 +773,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 4
         }
       ],
@@ -784,9 +793,6 @@
           "location": 1
         },
         {
-          "tags": [
-            "CC_DRAW_WIRE_FRAME"
-          ],
           "name": "vBarycentric",
           "type": 15,
           "count": 1,
@@ -898,6 +904,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 0
         },
         {
@@ -905,6 +912,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 1
         },
         {
@@ -912,6 +920,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 2
         },
         {
@@ -919,6 +928,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 3
         },
         {
@@ -926,6 +936,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 4
         }
       ],
@@ -945,9 +956,6 @@
           "location": 1
         },
         {
-          "tags": [
-            "CC_DRAW_WIRE_FRAME"
-          ],
           "name": "vBarycentric",
           "type": 15,
           "count": 1,

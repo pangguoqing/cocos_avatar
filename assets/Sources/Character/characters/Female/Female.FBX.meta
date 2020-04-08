@@ -1,12 +1,12 @@
 {
-  "ver": "1.3.16",
+  "ver": "1.3.19",
   "importer": "fbx",
   "imported": true,
   "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13",
   "files": [],
   "subMetas": {
     "11162": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@11162",
       "imported": true,
@@ -57,7 +57,7 @@
       "name": "female_hair-2-11.image"
     },
     "30732": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@30732",
       "imported": true,
@@ -66,14 +66,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "jointsLength": 8
       },
       "displayName": "",
       "id": "30732",
       "name": "UnnamedSkeleton-0.skeleton"
     },
     "62756": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@62756",
       "imported": true,
@@ -82,14 +83,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 5
+        "gltfIndex": 5,
+        "jointsLength": 19
       },
       "displayName": "",
       "id": "62756",
       "name": "UnnamedSkeleton-5.skeleton"
     },
     "6ed33": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@6ed33",
       "imported": true,
@@ -106,7 +108,7 @@
       "name": "pants-1.mesh"
     },
     "9e5f6": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@9e5f6",
       "imported": true,
@@ -123,7 +125,7 @@
       "name": "top-1.mesh"
     },
     "98eb1": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@98eb1",
       "imported": true,
@@ -140,7 +142,7 @@
       "name": "shoes-1.mesh"
     },
     "4c75f": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@4c75f",
       "imported": true,
@@ -157,7 +159,7 @@
       "name": "top-2.mesh"
     },
     "78ea2": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@78ea2",
       "imported": true,
@@ -174,7 +176,7 @@
       "name": "shoes-2.mesh"
     },
     "ceaf9": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ceaf9",
       "imported": true,
@@ -191,7 +193,7 @@
       "name": "face-1.mesh"
     },
     "8834c": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8834c",
       "imported": true,
@@ -208,7 +210,7 @@
       "name": "pants-2.mesh"
     },
     "d5488": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d5488",
       "imported": true,
@@ -225,7 +227,7 @@
       "name": "hair-1.mesh"
     },
     "fde99": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@fde99",
       "imported": true,
@@ -242,7 +244,7 @@
       "name": "face-2.mesh"
     },
     "234b4": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@234b4",
       "imported": true,
@@ -259,7 +261,7 @@
       "name": "eyes.mesh"
     },
     "f1394": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@f1394",
       "imported": true,
@@ -268,14 +270,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "jointsLength": 36
       },
       "displayName": "",
       "id": "f1394",
       "name": "UnnamedSkeleton-1.skeleton"
     },
     "75ee4": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@75ee4",
       "imported": true,
@@ -284,14 +287,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 2
+        "gltfIndex": 2,
+        "jointsLength": 7
       },
       "displayName": "",
       "id": "75ee4",
       "name": "UnnamedSkeleton-2.skeleton"
     },
     "a72ab": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@a72ab",
       "imported": true,
@@ -300,14 +304,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 3
+        "gltfIndex": 3,
+        "jointsLength": 33
       },
       "displayName": "",
       "id": "a72ab",
       "name": "UnnamedSkeleton-3.skeleton"
     },
     "2224c": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@2224c",
       "imported": true,
@@ -316,14 +321,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 4
+        "gltfIndex": 4,
+        "jointsLength": 6
       },
       "displayName": "",
       "id": "2224c",
       "name": "UnnamedSkeleton-4.skeleton"
     },
     "7d08b": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@7d08b",
       "imported": true,
@@ -332,14 +338,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 6
+        "gltfIndex": 6,
+        "jointsLength": 1
       },
       "displayName": "",
       "id": "7d08b",
       "name": "UnnamedSkeleton-6.skeleton"
     },
     "b5902": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@b5902",
       "imported": true,
@@ -348,14 +355,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 7
+        "gltfIndex": 7,
+        "jointsLength": 5
       },
       "displayName": "",
       "id": "b5902",
       "name": "UnnamedSkeleton-7.skeleton"
     },
     "2d5df": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@2d5df",
       "imported": true,
@@ -364,14 +372,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 8
+        "gltfIndex": 8,
+        "jointsLength": 1
       },
       "displayName": "",
       "id": "2d5df",
       "name": "UnnamedSkeleton-8.skeleton"
     },
     "8feb8": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8feb8",
       "imported": true,
@@ -380,14 +389,15 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 9
+        "gltfIndex": 9,
+        "jointsLength": 17
       },
       "displayName": "",
       "id": "8feb8",
       "name": "UnnamedSkeleton-9.skeleton"
     },
     "ad32d": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ad32d",
       "imported": true,
@@ -396,7 +406,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 10
+        "gltfIndex": 10,
+        "jointsLength": 2
       },
       "displayName": "",
       "id": "ad32d",
@@ -1147,10 +1158,13 @@
       "id": "5ba09",
       "name": "female_eyes-18.texture"
     },
-    "859bd": {
-      "ver": "1.0.9",
+    "dbb13": {
       "importer": "gltf-scene",
-      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@dbb13",
+      "displayName": "",
+      "id": "dbb13",
+      "name": "Female.prefab",
+      "ver": "1.0.11",
       "imported": true,
       "files": [
         ".json"
@@ -1158,10 +1172,7 @@
       "subMetas": {},
       "userData": {
         "gltfIndex": 0
-      },
-      "displayName": "",
-      "id": "859bd",
-      "name": "Female.FBX.prefab"
+      }
     }
   },
   "userData": {
@@ -1243,7 +1254,7 @@
         "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d14ff"
       }
     ],
-    "redirect": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd",
+    "redirect": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@dbb13",
     "assetFinder": {
       "meshes": [
         "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@6ed33",
@@ -1293,20 +1304,20 @@
         "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@5ba09"
       ],
       "materials": [
-        "70934a11-3e82-4b4d-b47b-72975375c786",
-        "e8e923a9-fe53-4512-9ac8-6163e6d53235",
-        "62150e30-eb81-438e-8952-c0f5ce0796a2",
-        "3ca743d7-f9bd-41b7-a349-34c4db940182",
-        "4ee0d482-5401-4258-8409-99780a9b0920",
-        "1642b2a7-600b-4f3c-83cd-444ad02154ef",
-        "1252ebc8-f8c8-4983-98f1-8b78d456fbcf",
-        "6f750e3c-8106-48ae-8c07-2542e67a3fc3",
-        "5a4417ad-ee03-4751-b1f5-14d53b6693f9",
-        "826caf51-5264-42cc-b9e8-92540b32a0ea",
-        "74f60dc9-6223-4623-817b-6a0bb42bbe09"
+        "94484964-2f56-4166-bcc9-072873ce2d01",
+        "7f37ccbd-3e3e-40cd-9b49-78d6341e35d6",
+        "b31a6fe4-80de-49e8-aab1-c78f8b46b32f",
+        "1b7db834-2c6f-4746-ad8c-5440100ac4f1",
+        "4c1b1908-0951-4dfb-afe6-99cddeddf197",
+        "3543a5e1-048c-4336-aa0b-fe3f098b7902",
+        "8de10f0f-7c99-41b2-8517-f758ad9d8856",
+        "04108140-1f16-4f28-ae10-fe5c1234a6c7",
+        "4116f1b4-4126-4b82-938b-2a6c7ed76155",
+        "19fe27f3-47da-450a-8f26-a34c6c179b8d",
+        "8631cfe2-eb29-472a-8d02-ecb233f86b87"
       ],
       "scenes": [
-        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@dbb13"
       ]
     },
     "dumpMaterials": true

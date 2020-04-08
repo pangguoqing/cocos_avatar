@@ -7,19 +7,12 @@
     "primitives": [
       {
         "primitiveMode": 7,
+        "jointMapIndex": 0,
         "vertexBundelIndices": [
           0
         ],
-        "geometricInfo": {
-          "view": {
-            "offset": 6080,
-            "length": 912,
-            "count": 228,
-            "stride": 4
-          }
-        },
         "indexView": {
-          "offset": 6992,
+          "offset": 6080,
           "length": 336,
           "count": 168,
           "stride": 2
@@ -75,17 +68,29 @@
     ],
     "minPosition": {
       "__type__": "cc.Vec3",
-      "x": -0.08557558665052056,
-      "y": 1.4586003123549753,
-      "z": -0.00001095049083237043
+      "x": -0.0008521750569343567,
+      "y": -0.0003345669247210026,
+      "z": -0.00031002730247564614
     },
     "maxPosition": {
       "__type__": "cc.Vec3",
-      "x": 0.08485942473635077,
-      "y": 1.520605801953935,
-      "z": 0.06690243445336817
+      "x": 0.0008521750569343567,
+      "y": 0.0003345669247210026,
+      "z": 0.0003100275935139507
+    },
+    "jointMaps": [
+      [
+        0,
+        1,
+        6
+      ]
+    ],
+    "morph": {
+      "subMeshMorphs": [
+        null
+      ]
     }
   },
-  "_dataLength": 7328,
-  "_hash": 1576766366
+  "_dataLength": 6416,
+  "_hash": 117736847
 }

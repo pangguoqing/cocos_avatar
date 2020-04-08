@@ -277,6 +277,9 @@
     "_materials": [
       {
         "__uuid__": "e8e923a9-fe53-4512-9ac8-6163e6d53235"
+      },
+      {
+        "__uuid__": "e8e923a9-fe53-4512-9ac8-6163e6d53235"
       }
     ],
     "_visFlags": 0,
@@ -447,6 +450,9 @@
     },
     "_enabled": true,
     "_materials": [
+      {
+        "__uuid__": "3ca743d7-f9bd-41b7-a349-34c4db940182"
+      },
       {
         "__uuid__": "3ca743d7-f9bd-41b7-a349-34c4db940182"
       }

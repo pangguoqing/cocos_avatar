@@ -15,7 +15,6 @@
       }
     ],
     "_stepness": 0,
-    "curveDatas": {},
     "_curves": [
       {
         "modifiers": [
@@ -3011,7 +3010,7 @@
       }
     ],
     "_commonTargets": [],
-    "_hash": 0
+    "_hash": 184281643
   },
   {
     "__type__": "cc.CompactValueTypeArray",

@@ -7,22 +7,28 @@
     "primitives": [
       {
         "primitiveMode": 7,
+        "jointMapIndex": 0,
         "vertexBundelIndices": [
           0
         ],
-        "geometricInfo": {
-          "view": {
-            "offset": 55360,
-            "length": 8304,
-            "count": 2076,
-            "stride": 4
-          }
-        },
         "indexView": {
-          "offset": 63664,
-          "length": 4188,
-          "count": 2094,
+          "offset": 37600,
+          "length": 3054,
+          "count": 1527,
           "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "jointMapIndex": 1,
+        "vertexBundelIndices": [
+          1
+        ],
+        "indexView": {
+          "offset": 59614,
+          "length": 567,
+          "count": 567,
+          "stride": 1
         }
       }
     ],
@@ -30,8 +36,53 @@
       {
         "view": {
           "offset": 0,
-          "length": 55360,
-          "count": 692,
+          "length": 37600,
+          "count": 470,
+          "stride": 80
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 43,
+            "isNormalized": false
+          },
+          {
+            "name": "a_joints",
+            "format": 41,
+            "isNormalized": false
+          },
+          {
+            "name": "a_weights",
+            "format": 43,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord1",
+            "format": 21,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 40654,
+          "length": 18960,
+          "count": 237,
           "stride": 80
         },
         "attributes": [
@@ -75,17 +126,73 @@
     ],
     "minPosition": {
       "__type__": "cc.Vec3",
-      "x": -0.5159420920535922,
-      "y": 0.7959572160616472,
-      "z": -0.09990565152838837
+      "x": -0.00515753636136651,
+      "y": -0.0011099886614829302,
+      "z": -0.0022770201321691275
     },
     "maxPosition": {
       "__type__": "cc.Vec3",
-      "x": 0.5169082405045629,
-      "y": 1.2387359309941486,
-      "z": 0.1220916965976358
+      "x": 0.00517096696421504,
+      "y": 0.00110998481977731,
+      "z": 0.0021507670171558857
+    },
+    "jointMaps": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        32,
+        33,
+        34
+      ],
+      [
+        0,
+        10,
+        11,
+        12,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    ],
+    "morph": {
+      "subMeshMorphs": [
+        null,
+        null
+      ]
     }
   },
-  "_dataLength": 67852,
-  "_hash": 2581911487
+  "_dataLength": 60181,
+  "_hash": 603083153
 }

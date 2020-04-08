@@ -7,21 +7,53 @@
     "primitives": [
       {
         "primitiveMode": 7,
+        "jointMapIndex": 0,
         "vertexBundelIndices": [
           0
         ],
-        "geometricInfo": {
-          "view": {
-            "offset": 363460,
-            "length": 64140,
-            "count": 16035,
-            "stride": 4
-          }
-        },
         "indexView": {
-          "offset": 427600,
-          "length": 35286,
-          "count": 17643,
+          "offset": 141304,
+          "length": 13722,
+          "count": 6861,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "jointMapIndex": 1,
+        "vertexBundelIndices": [
+          1
+        ],
+        "indexView": {
+          "offset": 182294,
+          "length": 2304,
+          "count": 1152,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "jointMapIndex": 2,
+        "vertexBundelIndices": [
+          2
+        ],
+        "indexView": {
+          "offset": 271910,
+          "length": 8064,
+          "count": 4032,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "jointMapIndex": 3,
+        "vertexBundelIndices": [
+          3
+        ],
+        "indexView": {
+          "offset": 399178,
+          "length": 11196,
+          "count": 5598,
           "stride": 2
         }
       }
@@ -30,8 +62,128 @@
       {
         "view": {
           "offset": 0,
-          "length": 363460,
-          "count": 5345,
+          "length": 141304,
+          "count": 2078,
+          "stride": 68
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 43,
+            "isNormalized": false
+          },
+          {
+            "name": "a_joints",
+            "format": 35,
+            "isNormalized": false
+          },
+          {
+            "name": "a_weights",
+            "format": 43,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 155026,
+          "length": 27268,
+          "count": 401,
+          "stride": 68
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 43,
+            "isNormalized": false
+          },
+          {
+            "name": "a_joints",
+            "format": 35,
+            "isNormalized": false
+          },
+          {
+            "name": "a_weights",
+            "format": 43,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 184598,
+          "length": 87312,
+          "count": 1284,
+          "stride": 68
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 43,
+            "isNormalized": false
+          },
+          {
+            "name": "a_joints",
+            "format": 35,
+            "isNormalized": false
+          },
+          {
+            "name": "a_weights",
+            "format": 43,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 279974,
+          "length": 119204,
+          "count": 1753,
           "stride": 68
         },
         "attributes": [
@@ -79,8 +231,124 @@
       "x": 1.1280615329742432,
       "y": 4.430077075958252,
       "z": 0.6853569149971008
+    },
+    "jointMaps": [
+      [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        24,
+        25,
+        26,
+        27,
+        31,
+        34,
+        37,
+        40,
+        44,
+        45,
+        48,
+        49
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      [
+        0,
+        3,
+        7,
+        8,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        24,
+        25,
+        43,
+        50,
+        51
+      ]
+    ],
+    "morph": {
+      "subMeshMorphs": [
+        null,
+        null,
+        null,
+        null
+      ]
     }
   },
-  "_dataLength": 462886,
-  "_hash": 1220123513
+  "_dataLength": 410374,
+  "_hash": 2680381790
 }

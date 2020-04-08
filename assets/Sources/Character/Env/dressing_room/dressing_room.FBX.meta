@@ -1,12 +1,12 @@
 {
-  "ver": "1.3.16",
+  "ver": "1.3.19",
   "importer": "fbx",
   "imported": true,
   "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84",
   "files": [],
   "subMetas": {
     "18675": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@18675",
       "imported": true,
@@ -21,22 +21,6 @@
       "displayName": "",
       "id": "18675",
       "name": "room.mesh"
-    },
-    "44753": {
-      "ver": "1.0.9",
-      "importer": "gltf-scene",
-      "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@44753",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {},
-      "userData": {
-        "gltfIndex": 0
-      },
-      "displayName": "",
-      "id": "44753",
-      "name": "dressing_room.FBX.prefab"
     },
     "90001": {
       "ver": "1.0.19",
@@ -63,7 +47,7 @@
       "name": "floor_wood.texture"
     },
     "230d9": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@230d9",
       "imported": true,
@@ -80,7 +64,7 @@
       "name": "carpet.mesh"
     },
     "f6e78": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@f6e78",
       "imported": true,
@@ -442,7 +426,7 @@
       "name": "carpet.texture"
     },
     "e24d9": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@e24d9",
       "imported": true,
@@ -458,7 +442,7 @@
       "name": "floor_wood.material"
     },
     "66ff8": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@66ff8",
       "imported": true,
@@ -474,7 +458,7 @@
       "name": "wall_plank.material"
     },
     "06ddf": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@06ddf",
       "imported": true,
@@ -490,7 +474,7 @@
       "name": "wallpaper.material"
     },
     "accad": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@accad",
       "imported": true,
@@ -506,7 +490,7 @@
       "name": "roof.material"
     },
     "9c1d4": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@9c1d4",
       "imported": true,
@@ -522,7 +506,7 @@
       "name": "unity_poster.material"
     },
     "f3172": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@f3172",
       "imported": true,
@@ -538,7 +522,7 @@
       "name": "black_wood.material"
     },
     "05cd2": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@05cd2",
       "imported": true,
@@ -554,7 +538,7 @@
       "name": "artplant_poster.material"
     },
     "16ef1": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@16ef1",
       "imported": true,
@@ -570,7 +554,7 @@
       "name": "metal.material"
     },
     "b6224": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@b6224",
       "imported": true,
@@ -586,7 +570,7 @@
       "name": "hanging_clothes.material"
     },
     "38b0b": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@38b0b",
       "imported": true,
@@ -602,7 +586,7 @@
       "name": "carpet.material"
     },
     "cc010": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@cc010",
       "imported": true,
@@ -616,6 +600,22 @@
       "displayName": "",
       "id": "cc010",
       "name": "mirror.material"
+    },
+    "427b1": {
+      "importer": "gltf-scene",
+      "uuid": "1fb017af-79fc-422d-9834-eb043e7d5c84@427b1",
+      "displayName": "",
+      "id": "427b1",
+      "name": "dressing_room.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
     }
   },
   "userData": {
@@ -657,7 +657,7 @@
         "uri": "1fb017af-79fc-422d-9834-eb043e7d5c84@71d56"
       }
     ],
-    "redirect": "1fb017af-79fc-422d-9834-eb043e7d5c84@44753",
+    "redirect": "1fb017af-79fc-422d-9834-eb043e7d5c84@427b1",
     "assetFinder": {
       "meshes": [
         "1fb017af-79fc-422d-9834-eb043e7d5c84@18675",
@@ -690,7 +690,7 @@
         "1fb017af-79fc-422d-9834-eb043e7d5c84@cc010"
       ],
       "scenes": [
-        "1fb017af-79fc-422d-9834-eb043e7d5c84@44753"
+        "1fb017af-79fc-422d-9834-eb043e7d5c84@427b1"
       ]
     }
   }

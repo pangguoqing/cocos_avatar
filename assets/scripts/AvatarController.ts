@@ -103,6 +103,7 @@ export class AvatarController extends Component {
         this.sex = this.getAvatarSex();
         this.avatar = this.sex === Sex.FEMALE ? this.getAvatarFemaleInfo() : this.getAvatarMaleInfo();
         this.target = this.sex === Sex.FEMALE ? this.female : this.female;
+        window.t = this.target
         this.dressAll().then(() => {
             this.target.active = true;
         });
@@ -217,8 +218,10 @@ export class AvatarController extends Component {
         const current = this.getPart(part, dressInfo);
         const res: string = this.getTextureRes(part, dressInfo);
         return this.loadTexture2D(res).then((texture2D: Texture2D) => {
-            const material = current.getComponent(SkinningModelComponent).materials[0];
-            material.setProperty('mainTexture', texture2D);
+            const materials = current.getComponent(SkinningModelComponent).materials;
+            for (var i = 0; i < materials.length; i++) {
+                materials[i].setProperty('mainTexture', texture2D);
+            }
             if (current !== pre) {
                 pre.active = false;
             }
@@ -228,7 +231,7 @@ export class AvatarController extends Component {
         })
     }
     /**
-     * 获取知道部位的元素
+     * 获取着装部位的元素
      * @param part 部位
      * @param dressInfo 部位着装信息
      */

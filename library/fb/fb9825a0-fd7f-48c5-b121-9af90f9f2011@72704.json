@@ -7,19 +7,12 @@
     "primitives": [
       {
         "primitiveMode": 7,
+        "jointMapIndex": 0,
         "vertexBundelIndices": [
           0
         ],
-        "geometricInfo": {
-          "view": {
-            "offset": 10948,
-            "length": 1932,
-            "count": 483,
-            "stride": 4
-          }
-        },
         "indexView": {
-          "offset": 12880,
+          "offset": 10948,
           "length": 1824,
           "count": 912,
           "stride": 2
@@ -79,8 +72,19 @@
       "x": 0.8866991400718689,
       "y": 4.560068130493164,
       "z": 0.8987413048744202
+    },
+    "jointMaps": [
+      [
+        0,
+        3
+      ]
+    ],
+    "morph": {
+      "subMeshMorphs": [
+        null
+      ]
     }
   },
-  "_dataLength": 14704,
-  "_hash": 102599860
+  "_dataLength": 12772,
+  "_hash": 2096009434
 }

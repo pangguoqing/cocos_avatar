@@ -9,7 +9,6 @@
   "_techIdx": 0,
   "_defines": [
     {
-      "USE_SKINNING": true,
       "USE_ALBEDO_MAP": true
     }
   ],
@@ -26,7 +25,7 @@
   ],
   "_props": [
     {
-      "albedoMap": {
+      "mainTexture": {
         "__uuid__": "5c265223-2431-42a1-bc6e-2a7a83c3f499@cb153"
       },
       "albedoScale": {

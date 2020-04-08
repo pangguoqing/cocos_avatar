@@ -189,6 +189,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 0
         },
         {
@@ -196,6 +197,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 1
         }
       ],
@@ -314,6 +316,7 @@
           "count": 1,
           "precision": "highp ",
           "defines": [],
+          "format": 32,
           "location": 0
         }
       ],
@@ -389,6 +392,7 @@
           "count": 1,
           "precision": "highp ",
           "defines": [],
+          "format": 32,
           "location": 0
         }
       ],
@@ -460,6 +464,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 0
         },
         {
@@ -467,6 +472,7 @@
           "type": 14,
           "count": 1,
           "defines": [],
+          "format": 21,
           "location": 1
         }
       ],

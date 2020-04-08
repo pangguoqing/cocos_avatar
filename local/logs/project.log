@@ -1,36 +1,403 @@
-2020-04-08 12:00:28-log: ui-kit@1.0.0 enable
-2020-04-08 12:00:28-log: ipc@1.0.0 enable
-2020-04-08 12:00:28-log: tester@1.0.0 enable
-2020-04-08 12:00:28-log: preferences@1.0.0 enable
-2020-04-08 12:00:30-log: engine@1.0.0 enable
-2020-04-08 12:00:30-log: asset-db@1.0.0 enable
-2020-04-08 12:00:30-log: console@1.0.0 enable
-2020-04-08 12:00:30-log: scene@1.0.0 enable
-2020-04-08 12:00:30-log: packager@1.0.0 enable
-2020-04-08 12:00:30-log: project-setting@1.0.0 enable
-2020-04-08 12:00:30-log: about@1.0.0 enable
-2020-04-08 12:00:30-log: server@1.0.0 enable
-2020-04-08 12:00:30-log: utils@1.0.0 enable
-2020-04-08 12:00:30-log: profile@1.0.0 enable
-2020-04-08 12:00:30-log: assets@1.0.0 enable
-2020-04-08 12:00:30-log: inspector@1.0.0 enable
-2020-04-08 12:00:30-log: hierarchy@1.0.0 enable
-2020-04-08 12:00:30-log: preview@1.0.0 enable
-2020-04-08 12:00:30-log: animator@1.0.0 enable
-2020-04-08 12:00:31-log: builder@1.0.0 enable
-2020-04-08 12:00:31-log: alipay-mini-game@1.0.0 enable
-2020-04-08 12:00:31-log: android@1.0.0 enable
-2020-04-08 12:00:31-log: baidu-mini-game@1.0.0 enable
-2020-04-08 12:00:31-log: cocos-play@1.0.0 enable
-2020-04-08 12:00:31-log: huawei-mini-game@1.0.0 enable
-2020-04-08 12:00:31-log: ios@1.0.0 enable
-2020-04-08 12:00:31-log: mac@1.0.0 enable
-2020-04-08 12:00:31-log: native@1.0.0 enable
-2020-04-08 12:00:31-log: oppo-mini-game@1.0.0 enable
-2020-04-08 12:00:31-log: vivo-mini-game@1.0.0 enable
-2020-04-08 12:00:31-log: web-desktop@1.0.0 enable
-2020-04-08 12:00:31-log: web-mobile@1.0.0 enable
-2020-04-08 12:00:31-log: wechatgame@1.0.0 enable
-2020-04-08 12:00:31-log: windows@1.0.0 enable
-2020-04-08 12:00:31-log: xiaomi-quick-game@1.0.0 enable
-2020-04-08 12:00:38-warn: [Scene] Sender does not exist
+2020-04-08 13:38:12-log: ui-kit@1.0.0 enable
+2020-04-08 13:38:12-log: ipc@1.0.0 enable
+2020-04-08 13:38:12-log: tester@1.0.0 enable
+2020-04-08 13:38:12-log: preferences@1.0.0 enable
+2020-04-08 13:38:14-log: engine@1.0.0 enable
+2020-04-08 13:38:14-log: asset-db@1.0.0 enable
+2020-04-08 13:38:14-log: console@1.0.0 enable
+2020-04-08 13:38:14-log: scene@1.0.0 enable
+2020-04-08 13:38:14-log: packager@1.0.0 enable
+2020-04-08 13:38:14-log: project-setting@1.0.0 enable
+2020-04-08 13:38:14-log: about@1.0.0 enable
+2020-04-08 13:38:14-log: server@1.0.0 enable
+2020-04-08 13:38:14-log: utils@1.0.0 enable
+2020-04-08 13:38:14-log: profile@1.0.0 enable
+2020-04-08 13:38:14-log: assets@1.0.0 enable
+2020-04-08 13:38:14-log: inspector@1.0.0 enable
+2020-04-08 13:38:14-log: hierarchy@1.0.0 enable
+2020-04-08 13:38:14-log: preview@1.0.0 enable
+2020-04-08 13:38:14-log: animator@1.0.0 enable
+2020-04-08 13:38:15-log: builder@1.0.0 enable
+2020-04-08 13:38:15-log: lightmap@1.0.0 enable
+2020-04-08 13:38:15-log: alipay-mini-game@1.0.0 enable
+2020-04-08 13:38:15-log: android@1.0.0 enable
+2020-04-08 13:38:15-log: baidu-mini-game@1.0.0 enable
+2020-04-08 13:38:15-log: cocos-play@1.0.0 enable
+2020-04-08 13:38:15-log: huawei-mini-game@1.0.0 enable
+2020-04-08 13:38:15-log: ios@1.0.0 enable
+2020-04-08 13:38:15-log: mac@1.0.0 enable
+2020-04-08 13:38:15-log: native@1.0.0 enable
+2020-04-08 13:38:15-log: oppo-mini-game@1.0.0 enable
+2020-04-08 13:38:15-log: vivo-mini-game@1.0.0 enable
+2020-04-08 13:38:15-log: web-desktop@1.0.0 enable
+2020-04-08 13:38:15-log: web-mobile@1.0.0 enable
+2020-04-08 13:38:15-log: wechatgame@1.0.0 enable
+2020-04-08 13:38:15-log: windows@1.0.0 enable
+2020-04-08 13:38:15-log: xiaomi-quick-game@1.0.0 enable
+2020-04-08 13:38:25-warn: [Scene] Sender does not exist
+2020-04-08 13:38:56-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:38:56-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:38:56-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:38:56-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:39:10-error: [Scene] Error: Can not get asset url by uuid "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd", the asset may be deleted.
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "pants-1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "shoes-1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "top-1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "top-2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "shoes-2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "face-1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "hair-2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "pants-2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "hair-1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "face-2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_EyelidLeft" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_EyeLeft" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_CheekRight" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_EyeRight" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_EyelidRight" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_MouthRight" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_EyebrowRight" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_Jaw" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_CheekLeft" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_MouthLeft" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_EyebrowLeft" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightThumb4" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightThumb3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightThumb2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightThumb1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_Head" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_Neck" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightIndex3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightIndex2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightIndex1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightMiddle3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightMiddle2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightMiddle1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightRing3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightRing2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightRing1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightPinky3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightPinky2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightPinky1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightHand" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightForeArm" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightArm" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_RightShoulder" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftThumb4" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftThumb3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftThumb2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftThumb1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftIndex3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftIndex2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftIndex1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftMiddle3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftMiddle2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftMiddle1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftRing3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftRing2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftRing1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftPinky3" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftPinky2" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftPinky1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftHand" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftForeArm" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftShoulder" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_LeftArm" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:11-error: [Scene] The Asset used by node "Female_Spine1" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_Spine" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_RightToeBase" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_RightFoot" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_RightLeg" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_RightUpLeg" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_LeftToeBase" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_LeftFoot" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_LeftLeg" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_LeftUpLeg" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female_Hips" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "eyes" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "RootNode" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:12-error: [Scene] The Asset used by node "Female" in scene "New Scene" is missing. Detailed information:
+Asset url: "db://assets/New Scene"
+Missing uuid: "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+
+2020-04-08 13:39:46-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:39:46-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:39:47-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:39:47-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:40:09-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:40:09-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:40:09-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:40:09-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:40:40-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:40:40-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:40:40-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:40:40-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:13-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:13-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:15-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:15-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:17-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:17-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:17-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:17-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:18-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-08 13:41:45-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:45-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:48-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:41:48-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:44:35-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:44:35-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:44:36-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:44:36-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:45:34-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:45:34-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:45:37-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:45:37-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:47:22-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:47:22-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:47:25-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:47:25-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:48:34-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:48:34-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:48:37-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:48:37-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:50:30-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:50:30-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:50:32-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:50:33-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:51:16-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:51:16-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:51:18-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:51:18-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:51:20-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/shoes-1.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:51:20-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/env.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:51:20-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/MaleModel.prefab: Unexpected token % in JSON at position 0
+2020-04-08 13:51:20-error: [Asset DB] SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/Sources/Character/characters/prefabs/FemaleModel.prefab: Unexpected token % in JSON at position 0

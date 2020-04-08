@@ -10,7 +10,6 @@
   "_defines": [
     {
       "HAS_SECOND_UV": true,
-      "USE_SKINNING": true,
       "USE_ALBEDO_MAP": true,
       "USE_NORMAL_MAP": true
     }
@@ -28,7 +27,7 @@
   ],
   "_props": [
     {
-      "albedoMap": {
+      "mainTexture": {
         "__uuid__": "cc9be02f-0175-401f-8a23-b68fd3c92473@a640d"
       },
       "albedoScale": {
