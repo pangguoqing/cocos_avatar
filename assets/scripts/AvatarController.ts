@@ -224,6 +224,8 @@ export class AvatarController extends Component {
             }
             if (current !== pre) {
                 pre.active = false;
+                // [bug fix] 从A模型切换到B模型时，A模型的全局旋转信息未能更新到最新。
+                this.target.setRotation(this.target.getRotation());
             }
             current.active = true;
             this.avatar[part] = dressInfo;
