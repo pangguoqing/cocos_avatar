@@ -140,9 +140,14 @@ export class AvatarController extends Component {
         this.nFacePanel.active = false;
         this.nDressPanel.active = true;
     }
-
+    /**
+     * 捏下巴
+     * @param slider 滑杆
+     */
     public nJaw(slider: SliderComponent){
         console.log(slider.progress)
+        window.t = this.target
+        console.log(this.target.children[0].children[10].children[0].children[0].children[0].children[0].children)
     }
 
 
@@ -150,8 +155,6 @@ export class AvatarController extends Component {
         this.sex = this.getAvatarSex();
         this.avatar = this.sex === Sex.FEMALE ? this.getAvatarFemaleInfo() : this.getAvatarMaleInfo();
         this.target = this.sex === Sex.FEMALE ? this.female : this.female;
-        console.log(this.target.getRotation())
-        // window.t = director.getScene()
         window.camera = this.camera
         this.dressAll().then(() => {
             this.target.active = true;
