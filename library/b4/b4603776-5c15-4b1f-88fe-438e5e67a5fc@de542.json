@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.Material",
+  "_name": "female_eyes",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "HAS_SECOND_UV": true,
+      "USE_SKINNING": true,
+      "USE_ALBEDO_MAP": true
+    }
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {}
+    }
+  ],
+  "_props": [
+    {
+      "albedoMap": {
+        "__uuid__": "b4603776-5c15-4b1f-88fe-438e5e67a5fc@5ba09"
+      },
+      "albedoScale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "metallic": 0.400000005960464,
+      "roughness": 0.70710676908493
+    }
+  ]
+}

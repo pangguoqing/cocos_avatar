@@ -1,0 +1,19 @@
+{
+  "ver": "1.0.2",
+  "importer": "texture-cube",
+  "imported": true,
+  "uuid": "10dfe735-0cc5-4c84-a4c3-0c7dee78737b",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "wrapModeS": "repeat",
+    "wrapModeT": "repeat",
+    "minfilter": "linear",
+    "magfilter": "linear",
+    "mipfilter": "none",
+    "premultiplyAlpha": false,
+    "anisotropy": 1
+  }
+}

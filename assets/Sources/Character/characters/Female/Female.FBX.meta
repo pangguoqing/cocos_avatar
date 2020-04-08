@@ -1,0 +1,1314 @@
+{
+  "ver": "1.3.16",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13",
+  "files": [],
+  "subMetas": {
+    "11162": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@11162",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      },
+      "displayName": "",
+      "id": "11162",
+      "name": "hair-2.mesh"
+    },
+    "13812": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@13812",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      },
+      "displayName": "",
+      "id": "13812",
+      "name": "female_hair-1-14.image"
+    },
+    "28888": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@28888",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      },
+      "displayName": "",
+      "id": "28888",
+      "name": "female_hair-2-11.image"
+    },
+    "30732": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@30732",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton"
+    },
+    "62756": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@62756",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      },
+      "displayName": "",
+      "id": "62756",
+      "name": "UnnamedSkeleton-5.skeleton"
+    },
+    "6ed33": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@6ed33",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "6ed33",
+      "name": "pants-1.mesh"
+    },
+    "9e5f6": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@9e5f6",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      },
+      "displayName": "",
+      "id": "9e5f6",
+      "name": "top-1.mesh"
+    },
+    "98eb1": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@98eb1",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      },
+      "displayName": "",
+      "id": "98eb1",
+      "name": "shoes-1.mesh"
+    },
+    "4c75f": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@4c75f",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      },
+      "displayName": "",
+      "id": "4c75f",
+      "name": "top-2.mesh"
+    },
+    "78ea2": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@78ea2",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      },
+      "displayName": "",
+      "id": "78ea2",
+      "name": "shoes-2.mesh"
+    },
+    "ceaf9": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ceaf9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      },
+      "displayName": "",
+      "id": "ceaf9",
+      "name": "face-1.mesh"
+    },
+    "8834c": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8834c",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      },
+      "displayName": "",
+      "id": "8834c",
+      "name": "pants-2.mesh"
+    },
+    "d5488": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d5488",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      },
+      "displayName": "",
+      "id": "d5488",
+      "name": "hair-1.mesh"
+    },
+    "fde99": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@fde99",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      },
+      "displayName": "",
+      "id": "fde99",
+      "name": "face-2.mesh"
+    },
+    "234b4": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@234b4",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      },
+      "displayName": "",
+      "id": "234b4",
+      "name": "eyes.mesh"
+    },
+    "f1394": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@f1394",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      },
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton"
+    },
+    "75ee4": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@75ee4",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      },
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton"
+    },
+    "a72ab": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@a72ab",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      },
+      "displayName": "",
+      "id": "a72ab",
+      "name": "UnnamedSkeleton-3.skeleton"
+    },
+    "2224c": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@2224c",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      },
+      "displayName": "",
+      "id": "2224c",
+      "name": "UnnamedSkeleton-4.skeleton"
+    },
+    "7d08b": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@7d08b",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      },
+      "displayName": "",
+      "id": "7d08b",
+      "name": "UnnamedSkeleton-6.skeleton"
+    },
+    "b5902": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@b5902",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      },
+      "displayName": "",
+      "id": "b5902",
+      "name": "UnnamedSkeleton-7.skeleton"
+    },
+    "2d5df": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@2d5df",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      },
+      "displayName": "",
+      "id": "2d5df",
+      "name": "UnnamedSkeleton-8.skeleton"
+    },
+    "8feb8": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8feb8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      },
+      "displayName": "",
+      "id": "8feb8",
+      "name": "UnnamedSkeleton-9.skeleton"
+    },
+    "ad32d": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ad32d",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      },
+      "displayName": "",
+      "id": "ad32d",
+      "name": "UnnamedSkeleton-10.skeleton"
+    },
+    "ec1bf": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ec1bf",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "ec1bf",
+      "name": "female_pants-1-0.image"
+    },
+    "aa5c7": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@aa5c7",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      },
+      "displayName": "",
+      "id": "aa5c7",
+      "name": "female_pants-1-1.image"
+    },
+    "be376": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@be376",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      },
+      "displayName": "",
+      "id": "be376",
+      "name": "female_top-1-2.image"
+    },
+    "bb979": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@bb979",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      },
+      "displayName": "",
+      "id": "bb979",
+      "name": "female_top-1-3.image"
+    },
+    "8999d": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8999d",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      },
+      "displayName": "",
+      "id": "8999d",
+      "name": "female_shoes-1-4.image"
+    },
+    "48a01": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@48a01",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      },
+      "displayName": "",
+      "id": "48a01",
+      "name": "female_shoes-1-5.image"
+    },
+    "ccf4e": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ccf4e",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      },
+      "displayName": "",
+      "id": "ccf4e",
+      "name": "female_top-2-6.image"
+    },
+    "a781f": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@a781f",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      },
+      "displayName": "",
+      "id": "a781f",
+      "name": "female_top-2-7.image"
+    },
+    "c7654": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@c7654",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      },
+      "displayName": "",
+      "id": "c7654",
+      "name": "female_shoes-2-8.image"
+    },
+    "fd7a1": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@fd7a1",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      },
+      "displayName": "",
+      "id": "fd7a1",
+      "name": "female_face-1-9.image"
+    },
+    "ebebe": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ebebe",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      },
+      "displayName": "",
+      "id": "ebebe",
+      "name": "female_face-1-10.image"
+    },
+    "d3720": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d3720",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      },
+      "displayName": "",
+      "id": "d3720",
+      "name": "female_pants-2-12.image"
+    },
+    "8820b": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8820b",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      },
+      "displayName": "",
+      "id": "8820b",
+      "name": "female_pants-2-13.image"
+    },
+    "222a7": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@222a7",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      },
+      "displayName": "",
+      "id": "222a7",
+      "name": "female_hair-1-15.image"
+    },
+    "ce241": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ce241",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      },
+      "displayName": "",
+      "id": "ce241",
+      "name": "female_face-2-16.image"
+    },
+    "463e9": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@463e9",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      },
+      "displayName": "",
+      "id": "463e9",
+      "name": "female_face-2-17.image"
+    },
+    "d14ff": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d14ff",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 18
+      },
+      "displayName": "",
+      "id": "d14ff",
+      "name": "female_eyes-18.image"
+    },
+    "6b30c": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@6b30c",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ec1bf"
+      },
+      "displayName": "",
+      "id": "6b30c",
+      "name": "female_pants-1-0.texture"
+    },
+    "f408a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@f408a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@aa5c7"
+      },
+      "displayName": "",
+      "id": "f408a",
+      "name": "female_pants-1-1.texture"
+    },
+    "2c36e": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@2c36e",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@be376"
+      },
+      "displayName": "",
+      "id": "2c36e",
+      "name": "female_top-1-2.texture"
+    },
+    "e5c62": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@e5c62",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@bb979"
+      },
+      "displayName": "",
+      "id": "e5c62",
+      "name": "female_top-1-3.texture"
+    },
+    "db7ba": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@db7ba",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8999d"
+      },
+      "displayName": "",
+      "id": "db7ba",
+      "name": "female_shoes-1-4.texture"
+    },
+    "e8628": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@e8628",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@48a01"
+      },
+      "displayName": "",
+      "id": "e8628",
+      "name": "female_shoes-1-5.texture"
+    },
+    "b8356": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@b8356",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ccf4e"
+      },
+      "displayName": "",
+      "id": "b8356",
+      "name": "female_top-2-6.texture"
+    },
+    "e6436": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@e6436",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@a781f"
+      },
+      "displayName": "",
+      "id": "e6436",
+      "name": "female_top-2-7.texture"
+    },
+    "9b1f4": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@9b1f4",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@c7654"
+      },
+      "displayName": "",
+      "id": "9b1f4",
+      "name": "female_shoes-2-8.texture"
+    },
+    "3390d": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@3390d",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@fd7a1"
+      },
+      "displayName": "",
+      "id": "3390d",
+      "name": "female_face-1-9.texture"
+    },
+    "d3310": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d3310",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ebebe"
+      },
+      "displayName": "",
+      "id": "d3310",
+      "name": "female_face-1-10.texture"
+    },
+    "524c0": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@524c0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@28888"
+      },
+      "displayName": "",
+      "id": "524c0",
+      "name": "female_hair-2-11.texture"
+    },
+    "90f1b": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@90f1b",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d3720"
+      },
+      "displayName": "",
+      "id": "90f1b",
+      "name": "female_pants-2-12.texture"
+    },
+    "5e68b": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@5e68b",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8820b"
+      },
+      "displayName": "",
+      "id": "5e68b",
+      "name": "female_pants-2-13.texture"
+    },
+    "0ca5d": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@0ca5d",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@13812"
+      },
+      "displayName": "",
+      "id": "0ca5d",
+      "name": "female_hair-1-14.texture"
+    },
+    "b3151": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@b3151",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@222a7"
+      },
+      "displayName": "",
+      "id": "b3151",
+      "name": "female_hair-1-15.texture"
+    },
+    "0ac4c": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@0ac4c",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ce241"
+      },
+      "displayName": "",
+      "id": "0ac4c",
+      "name": "female_face-2-16.texture"
+    },
+    "546bb": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@546bb",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@463e9"
+      },
+      "displayName": "",
+      "id": "546bb",
+      "name": "female_face-2-17.texture"
+    },
+    "5ba09": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@5ba09",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d14ff"
+      },
+      "displayName": "",
+      "id": "5ba09",
+      "name": "female_eyes-18.texture"
+    },
+    "859bd": {
+      "ver": "1.0.9",
+      "importer": "gltf-scene",
+      "uuid": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "859bd",
+      "name": "Female.FBX.prefab"
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "female_pants-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ec1bf"
+      },
+      {
+        "name": "female_pants-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@aa5c7"
+      },
+      {
+        "name": "female_top-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@be376"
+      },
+      {
+        "name": "female_top-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@bb979"
+      },
+      {
+        "name": "female_shoes-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8999d"
+      },
+      {
+        "name": "female_shoes-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@48a01"
+      },
+      {
+        "name": "female_top-2",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ccf4e"
+      },
+      {
+        "name": "female_top-2",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@a781f"
+      },
+      {
+        "name": "female_shoes-2",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@c7654"
+      },
+      {
+        "name": "female_face-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@fd7a1"
+      },
+      {
+        "name": "female_face-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ebebe"
+      },
+      {
+        "name": "female_hair-2",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@28888"
+      },
+      {
+        "name": "female_pants-2",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d3720"
+      },
+      {
+        "name": "female_pants-2",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8820b"
+      },
+      {
+        "name": "female_hair-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@13812"
+      },
+      {
+        "name": "female_hair-1",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@222a7"
+      },
+      {
+        "name": "female_face-2",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ce241"
+      },
+      {
+        "name": "female_face-2",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@463e9"
+      },
+      {
+        "name": "female_eyes",
+        "uri": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d14ff"
+      }
+    ],
+    "redirect": "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd",
+    "assetFinder": {
+      "meshes": [
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@6ed33",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@9e5f6",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@98eb1",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@4c75f",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@78ea2",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ceaf9",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@11162",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8834c",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d5488",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@fde99",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@234b4"
+      ],
+      "skeletons": [
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@30732",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@f1394",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@75ee4",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@a72ab",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@2224c",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@62756",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@7d08b",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@b5902",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@2d5df",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@8feb8",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@ad32d"
+      ],
+      "textures": [
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@6b30c",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@f408a",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@2c36e",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@e5c62",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@db7ba",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@e8628",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@b8356",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@e6436",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@9b1f4",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@3390d",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@d3310",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@524c0",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@90f1b",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@5e68b",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@0ca5d",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@b3151",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@0ac4c",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@546bb",
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@5ba09"
+      ],
+      "materials": [
+        "70934a11-3e82-4b4d-b47b-72975375c786",
+        "e8e923a9-fe53-4512-9ac8-6163e6d53235",
+        "62150e30-eb81-438e-8952-c0f5ce0796a2",
+        "3ca743d7-f9bd-41b7-a349-34c4db940182",
+        "4ee0d482-5401-4258-8409-99780a9b0920",
+        "1642b2a7-600b-4f3c-83cd-444ad02154ef",
+        "1252ebc8-f8c8-4983-98f1-8b78d456fbcf",
+        "6f750e3c-8106-48ae-8c07-2542e67a3fc3",
+        "5a4417ad-ee03-4751-b1f5-14d53b6693f9",
+        "826caf51-5264-42cc-b9e8-92540b32a0ea",
+        "74f60dc9-6223-4623-817b-6a0bb42bbe09"
+      ],
+      "scenes": [
+        "45b9d987-05e2-4c70-a5cb-5e6e015cfb13@859bd"
+      ]
+    },
+    "dumpMaterials": true
+  }
+}
