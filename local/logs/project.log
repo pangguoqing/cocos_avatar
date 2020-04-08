@@ -7272,3 +7272,4 @@
 2020-04-08 19:16:23-error: [Window] [Vue warn]: Duplicate keys detected: '/ChangePantsButton/Label/ChangePantsButton/Label'. This may cause an update error.
 
 (found in <Root>)
+2020-04-08 19:24:34-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
