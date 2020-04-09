@@ -149,6 +149,13 @@ export class AvatarController extends Component {
         jaw.setPosition({...jaw.position, x: 0.0006415533716790378 + 0.00008 * (slider.progress - 0.7) * 2})
     }
 
+    public nCheck(slider: SliderComponent){
+        const cheekRight = this.target.children[0].children[10].children[0].children[0].children[0].children[0].children[2];
+        const cheekLeft = this.target.children[0].children[10].children[0].children[0].children[0].children[0].children[8];
+        cheekRight.setPosition({...cheekRight.position, x: 0.00104265206027776 + 0.0002 * (slider.progress - 0.7) * 2})
+        cheekLeft.setPosition({...cheekLeft.position, x: 0.0010417031589895487 + 0.0002 * (slider.progress - 0.7) * 2})
+    }
+
     private hideUnusedParts() {
         const parts = this.target.children[0].children;
         for (var i = 0; i < parts.length; i++) {

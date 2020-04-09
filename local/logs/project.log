@@ -1,67 +1,56 @@
-2020-04-09 00:46:24-log: ui-kit@1.0.0 enable
-2020-04-09 00:46:24-log: ipc@1.0.0 enable
-2020-04-09 00:46:24-log: tester@1.0.0 enable
-2020-04-09 00:46:24-log: preferences@1.0.0 enable
-2020-04-09 00:46:26-log: engine@1.0.0 enable
-2020-04-09 00:46:26-log: asset-db@1.0.0 enable
-2020-04-09 00:46:26-log: console@1.0.0 enable
-2020-04-09 00:46:26-log: scene@1.0.0 enable
-2020-04-09 00:46:26-log: packager@1.0.0 enable
-2020-04-09 00:46:26-log: project-setting@1.0.0 enable
-2020-04-09 00:46:26-log: about@1.0.0 enable
-2020-04-09 00:46:26-log: server@1.0.0 enable
-2020-04-09 00:46:26-log: utils@1.0.0 enable
-2020-04-09 00:46:26-log: profile@1.0.0 enable
-2020-04-09 00:46:26-log: assets@1.0.0 enable
-2020-04-09 00:46:26-log: inspector@1.0.0 enable
-2020-04-09 00:46:26-log: hierarchy@1.0.0 enable
-2020-04-09 00:46:26-log: preview@1.0.0 enable
-2020-04-09 00:46:26-log: animator@1.0.0 enable
-2020-04-09 00:46:27-log: builder@1.0.0 enable
-2020-04-09 00:46:27-log: lightmap@1.0.0 enable
-2020-04-09 00:46:27-log: alipay-mini-game@1.0.0 enable
-2020-04-09 00:46:27-log: android@1.0.0 enable
-2020-04-09 00:46:27-log: baidu-mini-game@1.0.0 enable
-2020-04-09 00:46:27-log: cocos-play@1.0.0 enable
-2020-04-09 00:46:27-log: huawei-mini-game@1.0.0 enable
-2020-04-09 00:46:27-log: ios@1.0.0 enable
-2020-04-09 00:46:27-log: mac@1.0.0 enable
-2020-04-09 00:46:27-log: native@1.0.0 enable
-2020-04-09 00:46:27-log: oppo-mini-game@1.0.0 enable
-2020-04-09 00:46:27-log: vivo-mini-game@1.0.0 enable
-2020-04-09 00:46:27-log: web-desktop@1.0.0 enable
-2020-04-09 00:46:27-log: web-mobile@1.0.0 enable
-2020-04-09 00:46:27-log: wechatgame@1.0.0 enable
-2020-04-09 00:46:27-log: windows@1.0.0 enable
-2020-04-09 00:46:27-log: xiaomi-quick-game@1.0.0 enable
-2020-04-09 00:46:32-warn: [Scene] Sender does not exist
-2020-04-09 00:46:46-error: [Asset DB] Wait for the asset unlock timeout: /Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/builtin-particle-trail.effect
-2020-04-09 00:46:46-error: [Asset DB] Wait for the asset unlock timeout: /Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/builtin-particle.effect
-2020-04-09 00:46:46-error: [Asset DB] Wait for the asset unlock timeout: /Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/builtin-sprite.effect
-2020-04-09 00:46:46-error: [Asset DB] Wait for the asset unlock timeout: /Applications/CocosCreator3D的副本.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/effects/builtin-terrain.effect
-2020-04-09 00:48:31-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 00:48:47-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 00:50:06-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 00:50:34-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 00:50:58-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 00:52:51-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 00:54:49-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 00:54:56-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 00:55:48-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:07:27-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:10:03-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:11:44-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:13:34-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:15:49-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:25:16-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:36:38-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:37:36-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:38:47-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:38:52-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:38:56-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:40:01-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:40:11-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:41:36-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:42:26-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:42:37-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
-2020-04-09 01:42:39-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 09:53:56-log: ui-kit@1.0.0 enable
+2020-04-09 09:53:56-log: ipc@1.0.0 enable
+2020-04-09 09:53:56-log: tester@1.0.0 enable
+2020-04-09 09:53:56-log: preferences@1.0.0 enable
+2020-04-09 09:53:58-log: engine@1.0.0 enable
+2020-04-09 09:53:58-log: asset-db@1.0.0 enable
+2020-04-09 09:53:58-log: console@1.0.0 enable
+2020-04-09 09:53:58-log: scene@1.0.0 enable
+2020-04-09 09:53:58-log: packager@1.0.0 enable
+2020-04-09 09:53:58-log: project-setting@1.0.0 enable
+2020-04-09 09:53:58-log: about@1.0.0 enable
+2020-04-09 09:53:58-log: server@1.0.0 enable
+2020-04-09 09:53:58-log: utils@1.0.0 enable
+2020-04-09 09:53:58-log: profile@1.0.0 enable
+2020-04-09 09:53:59-log: assets@1.0.0 enable
+2020-04-09 09:53:59-log: inspector@1.0.0 enable
+2020-04-09 09:53:59-log: hierarchy@1.0.0 enable
+2020-04-09 09:53:59-log: preview@1.0.0 enable
+2020-04-09 09:53:59-log: animator@1.0.0 enable
+2020-04-09 09:53:59-log: builder@1.0.0 enable
+2020-04-09 09:53:59-log: lightmap@1.0.0 enable
+2020-04-09 09:53:59-log: alipay-mini-game@1.0.0 enable
+2020-04-09 09:53:59-log: android@1.0.0 enable
+2020-04-09 09:53:59-log: baidu-mini-game@1.0.0 enable
+2020-04-09 09:53:59-log: cocos-play@1.0.0 enable
+2020-04-09 09:53:59-log: huawei-mini-game@1.0.0 enable
+2020-04-09 09:53:59-log: ios@1.0.0 enable
+2020-04-09 09:53:59-log: mac@1.0.0 enable
+2020-04-09 09:53:59-log: native@1.0.0 enable
+2020-04-09 09:53:59-log: oppo-mini-game@1.0.0 enable
+2020-04-09 09:53:59-log: vivo-mini-game@1.0.0 enable
+2020-04-09 09:53:59-log: web-desktop@1.0.0 enable
+2020-04-09 09:53:59-log: web-mobile@1.0.0 enable
+2020-04-09 09:53:59-log: wechatgame@1.0.0 enable
+2020-04-09 09:53:59-log: windows@1.0.0 enable
+2020-04-09 09:53:59-log: xiaomi-quick-game@1.0.0 enable
+2020-04-09 09:54:05-warn: [Scene] Sender does not exist
+2020-04-09 09:57:35-error: [Asset DB] 脚本 /Users/nali/Documents/work/cocos_avatar/assets/scripts/AvatarController.ts 转换失败：$SyntaxError: /Users/nali/Documents/work/cocos_avatar/assets/scripts/AvatarController.ts: Identifier 'jaw' has already been declared (151:14)
+
+  149 |         jaw.setPosition({...jaw.position, x: 0.0006415533716790378 + 0.00008 * (slider.progress - 0.7) * 2})
+  150 | 
+> 151 |         const jaw = this.target.children[0].children[10].children[0].children[0].children[0].children[0].children[7];
+      |               ^
+  152 |         jaw.setPosition({...jaw.position, x: 0.0006415533716790378 + 0.00008 * (slider.progress - 0.7) * 2})
+  153 |     }
+  154 |  [uuid: bcd2d0ac-4425-4d09-9987-258a7d12da01]
+2020-04-09 10:02:51-warn: [Window] Error: Cannot read property 'indexOf' of null
+2020-04-09 10:02:51-error: [Window] Error: Cannot read property 'indexOf' of null
+2020-04-09 10:03:34-warn: [Window] Error: Cannot read property 'indexOf' of null
+2020-04-09 10:03:34-error: [Window] Error: Cannot read property 'indexOf' of null
+2020-04-09 10:03:56-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 10:04:13-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 10:04:20-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 10:06:17-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 10:08:08-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
+2020-04-09 10:08:29-info: asset(/Users/nali/Documents/work/cocos_avatar/assets/New Scene.scene) saved
